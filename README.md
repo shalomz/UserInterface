@@ -9,4 +9,4 @@
   <a href="https://qoqo.io">QoQo&middot;IO - The Q/A that runs on BlockChain
 </h1>
 
-[![Gitter](https://badges.gitter.im/react-social-network/Lobby.svg)](https://github.com/QOQOtoken/UI)
+[![MEDIUM](https://png.icons8.com/color/50/000000/medium-logo.png)](https://medium.com/qoqoio)
