@@ -1,12 +1,12 @@
 <!-- Logo -->
 <p align="center">
-  <a href="https://github.com/Qolzam/react-social-network">
-    <img height="128" width="128" src="https://raw.githubusercontent.com/Qolzam/react-social-network/next/docs/app/logo.png">
+  <a href="https://qoqo.io">
+    <img height="140" width="200" src="QOQO.jpg">
   </a>
 </p>
 <!-- Name -->
 <h1 align="center">
-  <a href="https://github.com/Qolzam/react-social-network">React Social Network </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 30px;font-weight: 400;"> Version NEXT! </span>:rocket:
+  <a href="https://qoqo.io">QoQo&middot;I&middot;o  tHe Q/a On BlOcKcHaIn
 </h1>
 
 [![Gitter](https://badges.gitter.im/react-social-network/Lobby.svg)](https://gitter.im/react-social-network/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
