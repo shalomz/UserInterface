@@ -6,7 +6,7 @@
 </p>
 <!-- Name -->
 <h1 align="center">
-  <a href="https://qoqo.io">QoQo&middot;I&middot;o  tHe Q/a On BlOcKcHaIn
+  <a href="https://qoqo.io">QoQo&middot;IO - The Q/A that runs on BlockChain
 </h1>
 
 [![Gitter](https://badges.gitter.im/react-social-network/Lobby.svg)](https://gitter.im/react-social-network/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
