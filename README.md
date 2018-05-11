@@ -9,4 +9,7 @@
   <a href="https://qoqo.io">QoQo&middot;IO - The Q/A that runs on BlockChain
 </h1>
 
-[![MEDIUM](https://png.icons8.com/color/50/000000/medium-logo.png)](https://medium.com/qoqoio)
+## We are coming. Pretty SOON!
+
+#
+[![Medium](https://png.icons8.com/color/50/000000/medium-logo.png)](https://medium.com/qoqoio)
